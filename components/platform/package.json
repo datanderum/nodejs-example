@@ -1,0 +1,10 @@
+{
+  "name": "platform",
+  "description": "A component for ExpressJS MVC",
+  "version": "0.1.0",
+  "author": "LJoe Collier <datanderum@gmail.com>",
+  "dependencies": {
+    "async": "*"
+  },
+  "license": "MIT"
+}

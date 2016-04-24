@@ -3,7 +3,8 @@ var config = {}
 // Components enabled, do not change
 config.components = [
 	"frontpage",
-	"blog"
+	"blog",
+    "platform"
 ];
 
 // secret key, change it to encrypt your strings using this key
